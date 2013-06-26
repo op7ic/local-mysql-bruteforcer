@@ -12,8 +12,6 @@ op7ic (op7ica@gmail.com)
 Help
 ========
 
-[+] Local MySQL Password Bruteforcer by Yuri
-[+] contact : jyk@portcullis-security.com
 Usage:
     To crack single password for a user:
     options: -d <dict> -u <user>
