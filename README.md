@@ -11,7 +11,7 @@ op7ic (op7ica@gmail.com)
 
 Help
 ========
-
+```
 Usage:
     To crack single password for a user:
     options: -d <dict> -u <user>
@@ -30,7 +30,7 @@ Options:
                         username to crack password against
   -f FORCE, --force=FORCE
                         force quit after first successful crack
-
+```
                         
                         
 License
